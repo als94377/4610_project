@@ -13,7 +13,7 @@ Group 21482_ 6
 
 [Alexandra Shalikashvili](https://github.com/als94377/4610_project)
 
-[Simran Simran](https://github.com/simranhk/MIS)
+[Simran Singh](https://github.com/simranhk/MIS)
 
 [Ashley Skaggs](https://github.com/skaggsashley1/MIST4610_Project)
 
@@ -121,7 +121,7 @@ Group 21482_ 6
 **Query 1:** <br />
 **Description-** Write a query to list airports from most busy to least busy and the total number of departing passengers in each. <br />
 
-<img width="583" alt="Screenshot 2023-03-30 at 5 10 00 PM" src="https://user-images.githubusercontent.com/128408107/228965484-aae3f957-4d7f-47ea-8ce6-8b95f187e494.png"> <br />
+<img width="583" alt="Screenshot 2023-03-31 at 12 35 19 PM" src="https://user-images.githubusercontent.com/128408107/229178811-8165656c-037b-4324-b656-470f142495a0.png"> <br />
 
 **Justification:** A manager may want to know which airports are the most/least bust to ensure the airports are properly staffed with the correct amount of TSA employees, Receptionists, Flight Attendants, and Security to account for the number of passengers departing from that airport. An understaffed busy airport could be unsafe for guests and lead to a unpleasant flying experience. <br />
 
@@ -142,7 +142,8 @@ Group 21482_ 6
 **Query 4:** <br />
 **Description-** Write a query to display the passenger ID, first name, last name, and luggage weight for those passengers whose luggage weighs more than the average luggage weight <br />      
 
-<img width="573" alt="Screenshot 2023-03-30 at 6 08 51 PM" src="https://user-images.githubusercontent.com/128408107/228974924-28f26a38-23d6-4c17-951f-e975eefa33d1.png"> <br />
+<img width="808" alt="Screenshot 2023-03-31 at 11 58 15 AM" src="https://user-images.githubusercontent.com/128408107/229170955-5a8c8b6d-e951-47c5-907e-fad05218358f.png">
+<img width="311" alt="Screenshot 2023-03-31 at 11 58 00 AM" src="https://user-images.githubusercontent.com/128408107/229171005-3ab84804-3b86-4240-bc9a-e132d6148c18.png"> <br />
 
 **Justification:**  A manager may want to know how many people per flight have above average luggage to enure the flight stays within its weight restrictions. This may lead to people being asked to switch flights or the flight being cancelled due to being overweight. This would also allow managers to see the full range of luggage weight and set restrictions for future passengers if flights being overweight becomes a constant issue.. <br />
 
@@ -207,4 +208,6 @@ Group 21482_ 6
 
 ## Database Information
 Our queries are stored as Procedures in the ns_21482_6 server in the format TP_Qx.
+
+
 
